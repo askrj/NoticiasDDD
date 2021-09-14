@@ -1,0 +1,12 @@
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Aplicacao.deps.json
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Aplicacao.dll
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\ref\Aplicacao.dll
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Aplicacao.pdb
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.AssemblyReference.cache
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfoInputs.cache
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfo.cs
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileInputs.cache
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb

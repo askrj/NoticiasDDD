@@ -1,0 +1,15 @@
+D:\projeto\NoticiasDDD\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\projeto\NoticiasDDD\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\projeto\NoticiasDDD\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\projeto\NoticiasDDD\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.pdb
+D:\projeto\NoticiasDDD\Dominio\bin\Debug\net5.0\Entidades.dll
+D:\projeto\NoticiasDDD\Dominio\bin\Debug\net5.0\Entidades.pdb
+D:\projeto\NoticiasDDD\Dominio\obj\Debug\net5.0\Dominio.csproj.CopyComplete

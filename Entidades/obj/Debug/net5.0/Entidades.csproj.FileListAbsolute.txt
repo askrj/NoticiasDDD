@@ -3,3 +3,13 @@ D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEdit
 D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
 D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
 D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\projeto\NoticiasDDD\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\projeto\NoticiasDDD\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.json
+D:\projeto\NoticiasDDD\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+D:\projeto\NoticiasDDD\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\projeto\NoticiasDDD\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+D:\projeto\NoticiasDDD\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\projeto\NoticiasDDD\Entidades\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
