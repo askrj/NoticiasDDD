@@ -10,3 +10,8 @@ D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileIn
 D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
 D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
 D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Entidades.dll
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Entidades.pdb
+D:\projeto\NoticiasDDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CopyComplete
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Dominio.dll
+D:\projeto\NoticiasDDD\Aplicacao\bin\Debug\net5.0\Dominio.pdb
